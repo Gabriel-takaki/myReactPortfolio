@@ -6,7 +6,7 @@ const Intro = () => {
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro">Olá, bem vindo(a). </h2>
+          <h2 className="i-intro">Olá, <br /> bem vindo(a) ao meu portfólio. </h2>
           <h1 className="i-name">Gabriel Takaki</h1>
           <br />
           <div className="i-title">
@@ -83,12 +83,7 @@ const Intro = () => {
           </g>
         </svg>
       </div>
-      <div className="i-right">
-        <div className="i-bg">
-        <img src={Me} alt="" className="i-img" />
-        </div>
       </div>
-    </div>
   );
 };
 

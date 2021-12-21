@@ -1,25 +1,46 @@
 import "./productList.css";
-import Product from "../product/Product";
-import { products } from "../../data";
+import Trabalho1 from "../../img/trabalho1.png";
+import Trabalho2 from "../../img/trabalho2.png";
+import Trabalho3 from "../../img/trabalho3.png";
+import Trabalho4 from "../../img/trabalho4.png";
 
-const ProductList = () => {
+const About = () => {
   return (
-    <div className="pl">
-      <div className="pl-texts">
-        <h1 className="pl-title">Create & inspire. It's Lama</h1>
-        <p className="pl-desc">
-          Lama is a creative portfolio that your work has been waiting for.
-          Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
+      <div className="projetos-div">
+        <h1 className="projetos-title">Meus Projetos</h1>
+        <p className="a-sub">
+         Clique aqui para ver um pouco sobre meus projetos desenvolvidos em <br/> JavaScript, React, Html, Css & Node.js.
         </p>
-      </div>
-      <div className="pl-list">
-        {products.map((item) => (
-          <Product key={item.id} img={item.img} link={item.link} />
-        ))}
-      </div>
-    </div>
+    
+        <div className="galeria">
+          <img
+            src={Trabalho1}
+            alt=""
+            className="projeto-img"
+          />
+           <img
+            src={Trabalho2}
+            alt=""
+            className="projeto-img"
+          />
+           <img
+            src={Trabalho3}
+            alt=""
+            className="projeto-img"
+          />
+           <img
+            src={Trabalho4}
+            alt=""
+            className="projeto-img"
+          />
+           <img
+            src={Trabalho1}
+            alt=""
+            className="projeto-img"
+          />
+        </div>
+        </div>
   );
 };
 
-export default ProductList;
+export default About;

@@ -6,7 +6,7 @@
 .c-bg {
   width: 20px;
   height: 100%;
-  background-color: #59b256;
+  background-color: #389ba8;
   position: absolute;
 }
 
@@ -74,13 +74,13 @@ textarea {
 button {
   border: none;
   padding: 15px;
-  background-color: #59b256;
+  background-color: #389ba8;
   color: white;
   font-weight: 500;
   cursor: pointer;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
