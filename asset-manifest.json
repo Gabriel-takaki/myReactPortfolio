@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/myReactPortfolio/static/css/main.bae85979.chunk.css",
-    "main.js": "/myReactPortfolio/static/js/main.b7c2d3e9.chunk.js",
-    "main.js.map": "/myReactPortfolio/static/js/main.b7c2d3e9.chunk.js.map",
+    "main.css": "/myReactPortfolio/static/css/main.bddfac8b.chunk.css",
+    "main.js": "/myReactPortfolio/static/js/main.6403501b.chunk.js",
+    "main.js.map": "/myReactPortfolio/static/js/main.6403501b.chunk.js.map",
     "runtime-main.js": "/myReactPortfolio/static/js/runtime-main.fc27ae5e.js",
     "runtime-main.js.map": "/myReactPortfolio/static/js/runtime-main.fc27ae5e.js.map",
     "static/js/2.a3787e58.chunk.js": "/myReactPortfolio/static/js/2.a3787e58.chunk.js",
     "static/js/2.a3787e58.chunk.js.map": "/myReactPortfolio/static/js/2.a3787e58.chunk.js.map",
     "index.html": "/myReactPortfolio/index.html",
-    "static/css/main.bae85979.chunk.css.map": "/myReactPortfolio/static/css/main.bae85979.chunk.css.map",
+    "static/css/main.bddfac8b.chunk.css.map": "/myReactPortfolio/static/css/main.bddfac8b.chunk.css.map",
     "static/js/2.a3787e58.chunk.js.LICENSE.txt": "/myReactPortfolio/static/js/2.a3787e58.chunk.js.LICENSE.txt",
+    "static/media/PomodoreTodo.40d93a14.png": "/myReactPortfolio/static/media/PomodoreTodo.40d93a14.png",
     "static/media/address.a01cb8cc.png": "/myReactPortfolio/static/media/address.a01cb8cc.png",
+    "static/media/cofeshoppCss.46d310f0.png": "/myReactPortfolio/static/media/cofeshoppCss.46d310f0.png",
     "static/media/email.a49e0158.png": "/myReactPortfolio/static/media/email.a49e0158.png",
     "static/media/me.cf83539d.png": "/myReactPortfolio/static/media/me.cf83539d.png",
     "static/media/moon.3bea3d39.png": "/myReactPortfolio/static/media/moon.3bea3d39.png",
@@ -18,13 +20,12 @@
     "static/media/sun.f794832a.png": "/myReactPortfolio/static/media/sun.f794832a.png",
     "static/media/trabalho1.a0d60f0f.png": "/myReactPortfolio/static/media/trabalho1.a0d60f0f.png",
     "static/media/trabalho2.092eec96.png": "/myReactPortfolio/static/media/trabalho2.092eec96.png",
-    "static/media/trabalho3.b642ab18.png": "/myReactPortfolio/static/media/trabalho3.b642ab18.png",
     "static/media/trabalho4.a1b2a5f7.png": "/myReactPortfolio/static/media/trabalho4.a1b2a5f7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fc27ae5e.js",
     "static/js/2.a3787e58.chunk.js",
-    "static/css/main.bae85979.chunk.css",
-    "static/js/main.b7c2d3e9.chunk.js"
+    "static/css/main.bddfac8b.chunk.css",
+    "static/js/main.6403501b.chunk.js"
   ]
 }
