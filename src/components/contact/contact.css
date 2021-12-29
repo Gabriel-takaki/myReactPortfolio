@@ -28,7 +28,8 @@
 }
 
 .c-title {
-  font-size: 60px;
+  margin-top: 50px;
+  font-size: 100px;
   width: 80%;
 }
 
@@ -48,6 +49,7 @@
 
 .c-desc {
   font-weight: 200;
+  font-size: 30px;
 }
 
 form {
@@ -87,6 +89,7 @@ button {
   }
 
   .c-title {
+    margin-top: 200px;
     font-size: 30px;
   }
 
